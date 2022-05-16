@@ -1,0 +1,108 @@
+Bread >>> 159
+
+Wine >>> 138
+
+Eggs >>> 138
+
+Meat >>> 150
+
+Cheese >>> 158
+
+Pencil >>> 114
+
+Diaper >>> 128
+
+Milk >>> 158
+
+Bagel >>> 134
+
+('Meat', 'Wine') >>> 79
+
+('Diaper', 'Milk') >>> 49
+
+('Bread', 'Cheese') >>> 75
+
+('Eggs', 'Meat') >>> 84
+
+('Bread', 'Eggs') >>> 59
+
+('Bread', 'Meat') >>> 65
+
+('Cheese', 'Milk') >>> 96
+
+('Bread', 'Pencil') >>> 63
+
+('Eggs', 'Pencil') >>> 52
+
+('Bagel', 'Milk') >>> 71
+
+('Bread', 'Diaper') >>> 73
+
+('Eggs', 'Wine') >>> 76
+
+('Bread', 'Wine') >>> 77
+
+('Milk', 'Pencil') >>> 54
+
+('Meat', 'Milk') >>> 77
+
+('Diaper', 'Eggs') >>> 51
+
+('Diaper', 'Meat') >>> 61
+
+('Pencil', 'Wine') >>> 63
+
+('Diaper', 'Pencil') >>> 54
+
+('Cheese', 'Eggs') >>> 94
+
+('Cheese', 'Meat') >>> 102
+
+('Bagel', 'Bread') >>> 88
+
+('Cheese', 'Pencil') >>> 63
+
+('Milk', 'Wine') >>> 69
+
+('Bagel', 'Cheese') >>> 61
+
+('Diaper', 'Wine') >>> 74
+
+('Bagel', 'Eggs') >>> 48
+
+('Bagel', 'Meat') >>> 60
+
+('Bagel', 'Pencil') >>> 50
+
+('Cheese', 'Diaper') >>> 63
+
+('Eggs', 'Milk') >>> 77
+
+('Bread', 'Milk') >>> 88
+
+('Cheese', 'Wine') >>> 85
+
+('Meat', 'Pencil') >>> 56
+
+('Bagel', 'Diaper') >>> 58
+
+('Bagel', 'Wine') >>> 54
+
+('Cheese', 'Milk', 'Wine') >>> 51
+
+('Eggs', 'Meat', 'Milk') >>> 56
+
+('Cheese', 'Eggs', 'Milk') >>> 62
+
+('Cheese', 'Eggs', 'Meat') >>> 68
+
+('Cheese', 'Eggs', 'Wine') >>> 52
+
+('Cheese', 'Meat', 'Milk') >>> 64
+
+('Bagel', 'Bread', 'Milk') >>> 54
+
+('Cheese', 'Meat', 'Wine') >>> 53
+
+('Cheese', 'Eggs', 'Meat', 'Milk') >>> 48
+
